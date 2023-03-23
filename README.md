@@ -70,8 +70,6 @@ After you're finished please remove all the comments and instructions!
 3- Liners.
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -84,8 +82,6 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - added index.html file.
 - added style.css file.
@@ -103,10 +99,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
 1. web browser.
@@ -114,8 +106,6 @@ To get a local copy up and running, follow these steps.
 3. Git-smc.
 
 ### Setup
-
-Clone this repository to your desired folder:
 
  Run this comand:
 
@@ -141,7 +131,6 @@ Run this comand:
 
 To run the project, execute the following command:
 
-Open index.html using live server extension
 
 ### Run tests
 
@@ -157,8 +146,6 @@ Open index.html using live server extension
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 Mahram Hossain
 
 - GitHub: [@githubhandle](https://github.com/mhnazary)
@@ -172,8 +159,6 @@ Open index.html using live server extension
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] Add header.
 - [ ] Add footer.
